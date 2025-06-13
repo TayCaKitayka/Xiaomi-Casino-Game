@@ -12,11 +12,8 @@
 
 ## Как запустить
 
-1.  Перейдите в раздел [Releases](https://github.com/ТвоёИмя/Xiaomi-Casino-Game/releases).
+1.  Перейдите в раздел [Releases](https://github.com/TaycaKitayka/Xiaomi-Casino-Game/releases).
 2.  Скачайте `main.exe` из последнего релиза.
 3.  Запустите файл.
 
-## Скриншот
-
-![Скриншот игры](путь/к/скриншоту.png) 
-(Чтобы вставить скриншот, загрузи его в репозиторий и укажи путь)
+Made with AI
