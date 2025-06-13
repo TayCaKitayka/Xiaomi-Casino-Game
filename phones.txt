@@ -1,0 +1,20 @@
+Redmi:
+Redmi A1 Plus:redmi_a1plus.png:1500
+Redmi A2:redmi_a2.png:2000
+Redmi A3:redmi_a3.png:2500
+Redmi 9A:redmi_9a.png:4000
+Redmi 10C:redmi_10c.png:6000
+
+Poco:
+Poco M6 Pro:poco_m6pro.png:10000
+Poco X7 Pro:poco_x7pro.png:20000
+Poco X6 Pro:poco_x6pro.png:18000
+Poco F7 Ultra:poco_f7ultra.png:50000
+Poco F6 Pro:poco_f6pro.png:25000
+
+Xiaomi:
+Xiaomi 10 Ultra:mi_10ultra.png:10000
+Xiaomi 13 Lite:mi_13lite.png:15000
+Xiaomi 14T Pro:mi_14t_pro.png:50000
+Xiaomi 15:mi_15.png:50000
+Xiaomi 15 Ultra:mi_15ultra.png:80000

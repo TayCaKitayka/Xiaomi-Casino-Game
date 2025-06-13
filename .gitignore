@@ -1,0 +1,19 @@
+# Папка виртуального окружения
+.venv/
+venv/
+
+# Папки кэша Python
+__pycache__/
+*.pyc
+
+# Папки сборки PyInstaller
+build/
+dist/
+*.spec
+
+# Файлы сохранений
+*.json
+
+# Исключение для файлов данных (чтобы они все-таки загрузились)
+!achievements.json
+!upgrades.json
